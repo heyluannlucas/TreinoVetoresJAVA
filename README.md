@@ -1,4 +1,3 @@
-# TreinoVetoresJAVA
 
 ## Activity #1
 #
